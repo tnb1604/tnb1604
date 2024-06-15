@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T00:11:04.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="B8PK-gTVNYUKLOhBAO1L" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T00:11:19.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="jSPoZWIGfGdZTKFnuMZx" version="24.5.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="961" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1161" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1107,7 +1107,7 @@
             <mxPoint x="2000" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b7wH9J0cJFTUyOy4iVLP-423" value="View basket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b7wH9J0cJFTUyOy4iVLP-423" value="View menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b7wH9J0cJFTUyOy4iVLP-424" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="b7wH9J0cJFTUyOy4iVLP-423">
